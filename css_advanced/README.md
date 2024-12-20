@@ -1,0 +1,2 @@
+# Advanced CSS
+This is a project for practising advanced CSS. It includes practises such as Style Importation, Header and Banner styling, and adding other aspects like Quotes, a Video List and FAQ section.
